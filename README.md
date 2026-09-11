@@ -27,7 +27,7 @@ Permite acompanhar automaticamente, pelo KM atual, quando a próxima troca de ó
 
 ## 🚀 Demonstração
 
-**Link:** `[ADICIONE AQUI O LINK DO GITHUB PAGES]`
+**Link:** 👉 [Acessar aplicação](https://junior-andrade-11.github.io/controle-de-oleo/)
 
 ## 💡 Contexto
 
