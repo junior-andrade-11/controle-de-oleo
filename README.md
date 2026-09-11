@@ -29,6 +29,8 @@ Permite acompanhar automaticamente, pelo KM atual, quando a próxima troca de ó
 
 **Link:** 👉 [Acessar aplicação](https://junior-andrade-11.github.io/controle-de-oleo/)
 
+<img width="1912" height="860" alt="image" src="https://github.com/user-attachments/assets/e0622036-df00-4aac-8544-f30b85e2fe33" />
+
 ## 💡 Contexto
 
 Ferramenta criada para uso interno no setor de Compras/Logística, simplificando o controle de manutenção preventiva da frota.
